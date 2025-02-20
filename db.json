@@ -1,0 +1,25 @@
+{
+"product :"
+[
+{"id":1,"name":"Gazelle, grant's","category":"Puce"},
+{"id":2,"name":"Collared lemming","category":"Red"},
+{"id":3,"name":"Black bear","category":"Violet"},
+{"id":4,"name":"Beaver, eurasian","category":"Green"},
+{"id":5,"name":"Sifaka, verreaux's","category":"Red"},
+{"id":6,"name":"Cuis","category":"Indigo"},
+{"id":7,"name":"Gull, herring","category":"Violet"},
+{"id":8,"name":"Yellow-necked spurfowl","category":"Blue"},
+{"id":9,"name":"Tenrec, tailless","category":"Puce"},
+{"id":10,"name":"Salmon, sockeye","category":"Green"},
+{"id":11,"name":"Macaw, green-winged","category":"Goldenrod"},
+{"id":12,"name":"Peccary, collared","category":"Orange"},
+{"id":13,"name":"Crane, blue","category":"Mauv"},
+{"id":14,"name":"North American river otter","category":"Puce"},
+{"id":15,"name":"Common zorro","category":"Indigo"},
+{"id":16,"name":"Drongo, fork-tailed","category":"Purple"},
+{"id":17,"name":"Possum, ring-tailed","category":"Crimson"},
+{"id":18,"name":"Civet, common palm","category":"Crimson"},
+{"id":19,"name":"Chickadee, black-capped","category":"Red"},
+{"id":20,"name":"Colobus, white-mantled","category":"Blue"}
+]
+}
